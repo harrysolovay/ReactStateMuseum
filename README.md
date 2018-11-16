@@ -39,6 +39,7 @@
 | [ReComponent](https://github.com/philipp-spiess/react-recomponent)                       | [<img src="./_art/csb.png" width="40px" />](https://codesandbox.io/s/github/GantMan/ReactStateMuseum/tree/master/React/react-recomponent) [<img src="./_art/octo.png" width="36px" />](https://github.com/GantMan/ReactStateMuseum/tree/master/React/react-recomponent) |                Coming Soon - Contribute Here?                |
 | [undux](https://github.com/bcherny/undux)                       | [<img src="./_art/csb.png" width="40px" />](https://codesandbox.io/s/github/GantMan/ReactStateMuseum/tree/master/React/undux) [<img src="./_art/octo.png" width="36px" />](https://github.com/GantMan/ReactStateMuseum/tree/master/React/undux) |                Coming Soon - Contribute Here?                |
 | [React 16.7.0-alpha useState Hook](https://reactjs.org/docs/hooks-overview.html)                       | [<img src="./_art/csb.png" width="40px" />](https://codesandbox.io/s/31420no9pq) [<img src="./_art/octo.png" width="36px" />](https://github.com/GantMan/ReactStateMuseum/tree/master/React/useState) |                Coming Soon - Contribute Here?                |
+| [state-mint](https://gitlab.com/harrysolovay/state-mint) | [<img src="./_art/octo.png" width="36px" />](https://gitlab.com/harrysolovay/state-mint) | [<img src="./_art/octo.png" width="36px" />](https://gitlab.com/harrysolovay/state-mint) |
 
 ### Examples to help portray the how, why, which, pros, and cons of various state management systems in the React ecosystem.
 
